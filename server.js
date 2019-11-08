@@ -2,8 +2,8 @@
 
 var express = require("express");
 var method = require("method-override");
-var body = require("body-parser");
 var exphbs = require("express-handlebars");
+var body = require("body-parser");
 var mongoose = require("mongoose");
 var logger = require("morgan");
 var cheerio = require("cheerio");
