@@ -1,15 +1,14 @@
 {
   "name": "mongodb-hw",
   "version": "1.0.0",
-  "description": "The New York Time Scraper (NYT Scraper for short) is a scraper app which captures the title, summary and image of articles of The New York Times. In this app, users are able to save their preferred articles, add notes and edit notes to one or multiple articles. Besides, app also provides search feature, allowing users to search in titles according to different key words.",
+  "description": "All the News That's Fit to Scrape",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "cheerio": "^1.0.0-rc.3",
-    "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
-    "method-override": "^3.0.0",
-    "mongoose": "^5.7.8",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mongoose": "^5.7.9",
     "morgan": "^1.9.1",
     "request": "^2.88.0"
   },
